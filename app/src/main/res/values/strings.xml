@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapSample</string>
+    <string name="accessToken">sk.eyJ1IjoicHJhc2FubmFrdW1hcnAiLCJhIjoiY2lvbXcxa3p3MDA1YXU4bTQya28wajFiaiJ9.ubcvCDzCW1-x-hr0dbrkwg</string>
+</resources>
