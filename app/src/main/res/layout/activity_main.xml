@@ -15,4 +15,14 @@
         mapbox:center_longitude="-73.99155"
         mapbox:zoom="11"/>
     <!-- note the access token string created in the previous step -->
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+         />
 </RelativeLayout>
